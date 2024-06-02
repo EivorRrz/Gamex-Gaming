@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   
   <img src="./readme-images/project-logo.png" />
 
@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 To run **GameX** locally, run this command on your git bash:
 
-Linux and macOS:
+Windows:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/codewithsadee/gamex.git

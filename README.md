@@ -24,3 +24,6 @@ To run **GameX** locally, follow these steps:
 
 ```bash
 git clone https://github.com/codewithsadee/gamex.git
+
+```bash
+https://gamex-web-esports.netlify.app/

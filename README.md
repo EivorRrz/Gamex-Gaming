@@ -1,17 +1,12 @@
 <div align="center">
-  
-  <a href="https://gamex-web-esports.netlify.app"/a>
   <img src="./readme-images/project-logo.png" />
-
   <h2 align="center">GameX - Gaming website</h2>
-
   GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![GameX Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
@@ -23,9 +18,9 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **GameX** locally, run this command on your git bash:
+To run **GameX** locally, follow these steps:
 
-Windows:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/codewithsadee/gamex.git

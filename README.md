@@ -1,6 +1,6 @@
 <div align="center">
   
-  
+  <a href="https://gamex-web-esports.netlify.app"/a>
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">GameX - Gaming website</h2>
